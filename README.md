@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @amir-kefir
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning sport programming
 - 😄 Pronouns: he/him
 
 <!---
